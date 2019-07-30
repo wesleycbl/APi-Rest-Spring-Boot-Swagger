@@ -35,11 +35,11 @@ public class SwaggerConfig {
 
         ApiInfo apiInfo = new ApiInfo(
                 "Produtos API REST",
-                "API REST de cadastro de produtos.",
+                "API REST de cadastro de produtos exemplo",
                 "1.0",
                 "Terms of Service",
-                new Contact("Wesley Santos", "https://www.queroquero-com.br",
-                        "wesley.santos@quero-quero.com.br"),
+                new Contact("Wesley Santos", "https://www.google.com",
+                        "wesleypsantos@hotmail.com"),
                 "Apache License Version 2.0",
                 "https://www.apache.org/licesen.html", new ArrayList<VendorExtension>()
         );
